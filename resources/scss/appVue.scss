@@ -1,0 +1,14 @@
+// VARIABILI
+@use './partials/variables';
+
+// GENERAL - GUEST
+@use './partials/guest/general';
+
+// // BOOTSTRAP
+//@use 'node_modules/bootstrap/scss/bootstrap';
+ @use 'node_modules/bootstrap/scss/bootstrap-grid';
+ @use 'node_modules/bootstrap/scss/bootstrap-utilities';
+
+
+
+
